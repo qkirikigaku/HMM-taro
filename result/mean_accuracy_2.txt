@@ -1,0 +1,4 @@
+Viterbi  : 59.0099%
+Decoding : 60.9733%
+Viterbi wins  : 0times
+Decoding wins : 100times

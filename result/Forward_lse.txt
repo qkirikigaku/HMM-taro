@@ -1,0 +1,2 @@
+log p(x) = log p(x, pi_L = Fair) + log p(x, pi_L = Loaded) = -17345.686030336044
+p(x) = 0.0

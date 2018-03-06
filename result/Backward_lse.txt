@@ -1,0 +1,2 @@
+log p(x) = logsumexp( log(a_0l) +　log(el(x0)) + log(bl(0)) ) = -17346.47041698642
+p(x) = 0.0
